@@ -1,2 +1,2 @@
 # unode-server
-redirect
+Go here https://github.com/jeremybusk/unode/
